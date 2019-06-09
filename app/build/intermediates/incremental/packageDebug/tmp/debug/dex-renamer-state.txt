@@ -1,0 +1,4 @@
+#Sun Jun 09 22:43:43 NPT 2019
+base.0=/home/udeep/native/RNN/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
